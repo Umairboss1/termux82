@@ -1,12 +1,12 @@
 <h1 align="center">Termux82</h1>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/stars/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/Cod3r-Ak/TermuX-Custom?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/license/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=blue"><br>
+  <img src="https://img.shields.io/github/stars/Umairboss1/termux82?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/Umairboss1/termux82?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/license/Umairboss1/termux82?style=for-the-badge&color=blue"><br>
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-Akshat-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-UMAIR-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
@@ -66,12 +66,12 @@ To get started, simply follow the provided commands to update and upgrade your T
     
 [-] Clone the TermuX-Custom6 repository in your Termux:
     ```
-    git clone https://github.com/Cod3r-Ak/TermuX-Custom
+    git clone https://github.com/Umairboss1/termux82
     ```
 
 [-] Navigate to the cloned repository directory:
     ```
-    cd TermuX-Custom
+    cd termux82
     ```
 
 [-] Add execute permissions to all files in the directory:
@@ -86,11 +86,11 @@ To get started, simply follow the provided commands to update and upgrade your T
 
 ## All Commands in Single Line
 ```
-apt update && apt upgrade && pkg install git && git clone https://github.com/Cod3r-Ak/TermuX-Custom && cd TermuX-Custom && chmod +x * && bash setup.sh 
+apt update && apt upgrade && pkg install git && git clone https://github.com/Umairboss1/termux82 && cd termux82 && chmod +x * && bash setup.sh 
 ```
 ## Copyright Notice
 
-All content, including but not limited to code, documentation, and assets, within the TermuX Custom repository is protected under copyright law. This repository, authored by Akshat [Cod3r-Ak], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
+All content, including but not limited to code, documentation, and assets, within the TermuX Custom repository is protected under copyright law. This repository, authored by UMAIR BOSS [DARK SHADOW], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
 
 You are granted the right to use, modify, and distribute the contents of this repository for educational and non-commercial purposes. However, you must adhere to the following conditions:
 ```
