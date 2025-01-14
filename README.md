@@ -12,9 +12,9 @@
 </p>
 
 ## Description
-TermuX Custom is a GitHub repository designed to empower users to personalize their TermuX experience. With TermuX Custom, you can enhance your Termux interface with features like a customizable login screen, login sound effects, and the ability to change your shell name. The interactive terminal provides a dynamic environment for your TermuX sessions.
+Termux82 is a GitHub repository designed to empower users to personalize their TermuX experience. With TermuX Custom, you can enhance your Termux interface with features like a customizable login screen, login sound effects, and the ability to change your shell name. The interactive terminal provides a dynamic environment for your TermuX sessions.
 
-**Repository Views** ![Views](https://profile-counter.glitch.me/TermuX-Custom/count.svg) 
+**Repository Views** ![Views](https://profile-counter.glitch.me/termux82/count.svg) 
 > **Maintained?**: Yes, This repository is Maintained and You will get Updates Regularly!
 
 # About Termux
@@ -90,7 +90,7 @@ apt update && apt upgrade && pkg install git && git clone https://github.com/Uma
 ```
 ## Copyright Notice
 
-All content, including but not limited to code, documentation, and assets, within the TermuX Custom repository is protected under copyright law. This repository, authored by UMAIR BOSS [DARK SHADOW], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
+All content, including but not limited to code, documentation, and assets, within the Termux82 repository is protected under copyright law. This repository, authored by UMAIR BOSS [DARK SHADOW], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
 
 You are granted the right to use, modify, and distribute the contents of this repository for educational and non-commercial purposes. However, you must adhere to the following conditions:
 ```
