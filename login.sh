@@ -60,7 +60,8 @@ echo -e "\033[1m\033[33m
                                                                     
 
 "
-echo -e  "     \e[1m\e[32m▂▃▄▅▆▇▓▒░ \033[1mCoded By \e[33mUMAIR BOSS \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "         \e[1m\e[32m▂▃▄▅▆▇▓▒░ \033[1mCoded By \e[33mUMAIR BOSS \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "          \e[1m\e[32m▂▃▄▅▆▇▓▒░ \033[1mT3AM3 By \e[33mTEAM UK 84 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 cd $HOME
 echo -e "   \033[1m\033[33m]\033[31m──────────────────────────────────────\033[33m["
 echo 
