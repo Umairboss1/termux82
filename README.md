@@ -1,4 +1,4 @@
-<h1 align="center">TermuX-Custom</h1>
+<h1 align="center">Termux82</h1>
 
 <p align="center"> 
   <img src="https://img.shields.io/github/stars/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=orange">
