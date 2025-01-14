@@ -1,4 +1,4 @@
-echo "Going back to old TermuX terminal! Thank You for using TermuX-Custom"
+echo "Going back to old TermuX terminal! Thank You for using termux82"
 sleep 1.0
 #setup motd
 echo > motd
